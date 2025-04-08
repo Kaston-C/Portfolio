@@ -19,7 +19,7 @@ We use a **Temporal Convolutional Network (TCN)** model to predict gait patterns
 
 ### Current Focus:
 - Testing varying slope change timing to understand its impact on prediction accuracy.
-- Preparing to integrate **intact thigh IMU data** into the model to improve performance.
+- Preparing to integrate **intact thigh IMU data** (Inertial Measurement Unit) into the model to improve performance.
 
 ## Model Training and Testing
 
@@ -33,14 +33,12 @@ The training and testing process follows these steps:
 2. **Testing**: 
    - After training, the model is tested on a separate dataset to assess its performance. This involves evaluating its accuracy in real-world conditions, focusing on metrics such as precision, recall, and F1 score. 
    - Special attention is given to minimizing false positives and false negatives, as even minor misclassifications can have significant real-world consequences, such as falls.
+   - #### Statistical Visualization:
+     - To better understand model performance, we use statistical analysis methods, including p-values and confidence intervals, to quantify the reliability of the results. Performance is visualized using **MAE (Mean Absolute Error) Bar Charts**, which help highlight overall model performance across different conditions.
 
 3. **Optimization for Real-Time Use**: 
    - We prioritize keeping the model efficient enough to run in real-time, without compromising prediction accuracy. This involves testing different model configurations and optimizing the code to ensure it meets real-time processing requirements.
    - We switched from using **XGBoost** to **Temporal Convolutional Networks (TCNs)** because TCNs offer a significant speed increase, enabling real-time predictions without sacrificing accuracy.
-
-### Statistical Visualization:
-- **Statistical Methods**: We use statistical analysis to quantify the reliability of model results. This includes p-values and confidence intervals to assess the significance of our findings.
-- **Visualizations**: Performance results are typically visualized through MAE (Mean Absolute Error) Bar Charts to show overall model performance across different conditions.
 
 ## Team Structure
 
