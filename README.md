@@ -17,7 +17,7 @@ I'm a CS student at Georgia Tech focused on systems & architecture + theory. I l
 
 ---
 
-## 📂 Contents
+## 📂 Content
 
 - [`systems-projects`](./systems-projects) - Systems projects I've built for learning outside of class
 - [`coursework/`](./coursework) – Relevant academic work
