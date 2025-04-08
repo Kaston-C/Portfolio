@@ -22,7 +22,7 @@ Welcome to my collection of systems-related projects! Below are some of the proj
 ### 4. **Git Implementation** (In Progress)
    - **Description**: A basic working version of Git to understand the fundamentals of version control and how repositories are managed.
    - **Technologies Used**: C, Version Control Concepts
-   - **Link to Code**: [Git Implementation](#)
+   - **Link to Code**: [Coming Soon](#)
 
 ## Installation
 
