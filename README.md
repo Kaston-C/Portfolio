@@ -12,16 +12,16 @@ I'm a CS student at Georgia Tech focused on systems & architecture + theory. I l
 - **Multipart OS Simulator**  
   Built a C-based OS simulator that mimics multicore CPU behavior and implements different scheduling/page replacement strategies.
 
-- **Biometric ML Classifier**  
+- **Intelligent Intent Recognition Research**  
   An ML model trained using kinematic data to classify biomechanical behaviors. Built with TensorFlow and pandas.
 
 ---
 
 ## 📂 Contents
 
-- `systems-projects/` – update this.
-- `coursework/` – Notable academic work
-- `research/` – Ongoing research
+- [`systems-projects`](./systems-projects) - Systems projects I've built for learning outside of class
+- [`coursework/`](./coursework) – Relevant academic work
+- [`research/`](./research) – Ongoing research
 
 ---
 
