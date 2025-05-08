@@ -17,7 +17,7 @@ Welcome to my collection of my peronsal projects! Below are some of the projects
 ### 3. **Simple HTTP Server**
    - **Description**: A minimal HTTP server implementation to understand how web servers handle requests and serve static content.
    - **Technologies Used**: C++, Networking, HTTP protocol
-   - **Link to Code**: [HTTP Server](/HTTP-server/)
+   - **Link to Code**: [HTTP Server](HTTP-server/)
 
 ### 4. **Git Implementation** (In Progress)
    - **Description**: A basic working version of Git to understand the fundamentals of version control and how repositories are managed.
