@@ -1,0 +1,52 @@
+# Build directories
+/build/
+bin/
+out/
+
+# C++ specific
+*.o
+*.obj
+*.so
+*.exe
+*.out
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt
+cmake-build-debug
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+
+# Compiled libraries
+*.a
+*.lib
+*.dll
+*.dylib
+
+# Ignore all Unix executables
+*/a.out
+*.run
+*.bin
+
+# Temporary files
+*.log
+*.tmp
+
+# Dependency directories
+/third_party/
+/vendor/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.d
+
+
+# Specific files
+personal-projects/HTTP-server/server

@@ -1,6 +1,6 @@
-# System Projects Overview
+# Personal Projects Overview
 
-Welcome to my collection of systems-related projects! Below are some of the projects I've built and am currently working on. This repository will continue to evolve as I develop new projects and further enhance my skills.
+Welcome to my collection of my peronsal projects! Below are some of the projects I've built and am currently working on. This repository will continue to evolve as I develop new projects and further enhance my skills. The larger projects have their own repo, while the smaller ones are published in a subdirectory here.
 
 ## Projects
 
@@ -14,10 +14,10 @@ Welcome to my collection of systems-related projects! Below are some of the proj
    - **Technologies Used**: Go, Docker, Cloud Computing, Virtualization
    - **Link to Code**: [Coming Soon](#)
 
-### 3. **Simple HTTP Server** (Planned)
+### 3. **Simple HTTP Server**
    - **Description**: A minimal HTTP server implementation to understand how web servers handle requests and serve static content.
-   - **Technologies Used**: Go, Networking, HTTP protocol
-   - **Link to Code**: [Coming Soon](#)
+   - **Technologies Used**: C++, Networking, HTTP protocol
+   - **Link to Code**: [HTTP Server](/HTTP-server/)
 
 ### 4. **Git Implementation** (In Progress)
    - **Description**: A basic working version of Git to understand the fundamentals of version control and how repositories are managed.

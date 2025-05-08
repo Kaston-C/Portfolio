@@ -19,9 +19,10 @@ I'm a CS student at Georgia Tech focused on systems & architecture + theory. I l
 
 ## 📂 Content
 
-- [`systems-projects`](./systems-projects) - Systems projects I've built for learning outside of class
+- [`systems-projects`](./personal-projects) - Systems projects I've built for learning outside of class
 - [`coursework/`](./coursework) – Relevant academic work
 - [`research/`](./research) – Ongoing research
+- [`professional/`](./professional) – Work I've completed as an employee
 
 ---
 
