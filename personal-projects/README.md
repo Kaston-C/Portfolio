@@ -1,41 +1,61 @@
 # Personal Projects Overview
 
-Welcome to my collection of my peronsal projects! Below are some of the projects I've built and am currently working on. This repository will continue to evolve as I develop new projects and further enhance my skills. The larger projects have their own repo, while the smaller ones are published in a subdirectory here.
+Welcome to my collection of personal projects! Below are some of the larger and smaller projects I've built or am currently working on. This repository will continue to evolve as I take on new challenges and deepen my skills.
 
-## Projects
+* **Larger projects** each have their own dedicated repository.
+* **Smaller projects** are stored in subdirectories within this repo.
 
-### 1. **Custom Unix Shell**
-   - **Description**: A lightweight, Unix-like command-line shell built in C as part of the [CodeCrafters](https://www.codecrafters.io/) Unix Shell challenge.
-   - **Technologies Used**: C, Unix system calls, Shell scripting
-   - **Link to Code**: [Shell](https://github.com/Kaston-C/shell)
+---
 
-### 2. **Cloud Infrastructure with Docker** (Planned)
-   - **Description**: Building a simple cloud infrastructure using Docker to emulate virtual machines for scalable applications.
-   - **Technologies Used**: Go, Docker, Cloud Computing, Virtualization
-   - **Link to Code**: [Coming Soon](#)
+## 🚀 Larger Projects
 
-### 3. **Simple HTTP Server**
-   - **Description**: A minimal HTTP server implementation to understand how web servers handle requests and serve static content.
-   - **Technologies Used**: C++, Networking, HTTP protocol
-   - **Link to Code**: [HTTP Server](HTTP-server/)
+### 🚦 [Distributed Rate Limiter](https://github.com/Kaston-C/distributed-rate-limiter)
 
-### 4. **Git Implementation** (In Progress)
-   - **Description**: A basic working version of Git to understand the fundamentals of version control and how repositories are managed.
-   - **Technologies Used**: C, Version Control Concepts
-   - **Link to Code**: [Coming Soon](#)
+* **Description**: A scalable and observable HTTP rate limiter built in Go, featuring Redis for centralized tracking, Docker for containerization, Kubernetes for orchestration, and Prometheus for monitoring.
+* **Technologies**: Go, Redis, Docker, Kubernetes, Prometheus
 
-## Installation
+### 🔧 [Custom Unix Shell](https://github.com/Kaston-C/shell)
 
-To install and run each project, follow the steps below for the specific project:
+* **Description**: A lightweight Unix-like command-line shell built in C, created as part of the [CodeCrafters](https://www.codecrafters.io/) Unix Shell challenge.
+* **Technologies**: C, Unix system calls, Shell scripting
 
-1. Clone the repository:
+### ☁️ Cloud Infrastructure with Docker *(Planned)*
+
+* **Description**: Simulates cloud infrastructure by using Docker containers as virtual machines to run scalable apps.
+* **Technologies**: Go, Docker, Cloud Computing, Virtualization
+* **Link**: Coming soon
+
+---
+
+## 🧪 Smaller Projects
+
+### 🌐 [Simple HTTP Server](HTTP-server/)
+
+* **Description**: A minimal HTTP server to learn how requests are received and static content is served.
+* **Technologies**: C++, Networking, HTTP protocol
+
+### 🌀 Git Implementation *(In Progress)*
+
+* **Description**: A basic version of Git built from scratch to explore how version control systems work under the hood.
+* **Technologies**: C, Version Control Concepts
+* **Link**: Coming soon
+
+---
+
+## 🛠 Installation
+
+To install and run any of the projects:
+
+1. **Clone this repository**:
+
    ```bash
    git clone <repository_url>
    ```
 
-2. Navigate to the project folder:
+2. **Navigate to a project folder**:
+
    ```bash
    cd <project_name>
    ```
 
-3. Follow the specific project instructions for building or running the project located in the respective README.
+3. **Follow the specific project instructions** found in each folder’s `README.md` to build or run the project.

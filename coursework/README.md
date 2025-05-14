@@ -3,12 +3,17 @@
 This document provides an overview of the courses I've taken related to my Computer Science studies at Georgia Tech, highlighting the skills, concepts, tools I've learned, and significant projects undertaken. Source code is not available as this would violate the academic policy of GT.
 
 ## Spring 2025
+
+<details>
+  <summary>Click to expand</summary>
+
 ### **CS 2200 - Systems and Networks**
 - **Key Topics:** Processor design, OS design, networking basics.
 - **Skills Acquired:** Gained hands-on experience in designing simple operating system processes and networking concepts. Improved my understanding of how systems and networks behave and interact at a foundational level.
 - **Major Projects:**
   - **Multipart OS Simulator:** Built an OS simulator with multithreaded control to emulate a multi-core CPU's behavior, evaluating different page replacement and scheduling algorithms. (Tools: C, multithreading)
-  - **Five-Stage Pipelined Process:** Created a pipelined process design using online software for circuit creation.
+  * **Reliable Transport Protocol (RTP):** Developed a custom RTP to enhance the reliability of a simulated network, implementing packet segmentation, checksum calculation, and the Stop-and-Wait protocol for data transmission. (Tools: C, multithreading)
+  - **Five-Stage Pipelined Processor:** Created a pipelined processor design using online software for circuit creation.
 
 ### **CS 3510 - Design and Analysis of Algorithms**
 - **Key Topics:** Divide and Conquer, Graphs, Dynamic Programming, NP-completeness.
@@ -18,7 +23,13 @@ This document provides an overview of the courses I've taken related to my Compu
 - **Key Topics:** Probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression, analysis of variance.
 - **Skills Acquired:** Developed a strong understanding of statistics, particularly in the context of data analysis. Gained the ability to apply statistical methods in real-world problem-solving. Completed all homework assignments using R.
 
+</details>
+
 ## Fall 2024
+
+<details>
+  <summary>Click to expand</summary>
+
 ### **CS 1332 - Data Structures and Algorithms**
 - **Key Topics:** Core data structures (lists, stacks, queues, trees, graphs) and algorithms for problem-solving.
 - **Skills Acquired:** Developed a strong understanding of data structures and their applications. Gained experience in algorithmic analysis, focusing on efficiency and scalability.
@@ -37,7 +48,13 @@ This document provides an overview of the courses I've taken related to my Compu
 - **Key Topics:** Vectors in 3D, curves, functions of several variables, partial derivatives, min/max problems, multiple integration.
 - **Skills Acquired:** Gained a foundational understanding of multivariable calculus, essential for fields like machine learning and physics simulations.
 
+</details>
+
 ## Spring 2024
+
+<details>
+  <summary>Click to expand</summary>
+
 ### **CS 1331 - Introduction to Object-Oriented Programming**
 - **Key Topics:** Object-oriented programming principles, Java programming.
 - **Skills Acquired:** Built foundational skills in OOP and Java programming, creating simple applications that involved user input and graphical interfaces using JavaFX.
@@ -50,7 +67,15 @@ This document provides an overview of the courses I've taken related to my Compu
 - **Key Topics:** Eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms.
 - **Skills Acquired:** Mastered key concepts in linear algebra, which are fundamental to many areas of computer science, particularly machine learning and graphics.
 
+</details>
+
 ## Fall 2023
+
+<details>
+  <summary>Click to expand</summary>
+
 ### **CS 1301 - Introduction to Computing**
 - **Key Topics:** Programming fundamentals, Big-O notation, and basic web development.
 - **Skills Acquired:** Mastered the basics of Python programming and learned the fundamentals of algorithmic efficiency. Developed simple web development projects to practice my coding skills.
+
+</details>
