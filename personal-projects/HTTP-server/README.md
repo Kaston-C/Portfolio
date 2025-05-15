@@ -37,7 +37,6 @@ The server will start listening on port `8080`. You can access it in your web br
 * `main.cpp`: The C++ source code for the server.
 * `web_files/`: A directory where you store the static files (HTML, CSS, JS, images) that the server will serve.
 * `web_files/404.html`: A custom 404 error page served when a file is not found.
-* `web_files/403.html`: Forbidden access page for restricted resources.
 
 ## 📬 Request Handling
 
