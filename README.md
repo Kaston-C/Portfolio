@@ -20,7 +20,7 @@ I'm a CS student at Georgia Tech with a focus on systems, architecture, and theo
 - **OneDecostar Intranet System**  
   Developed backend features including access control and database schema for a secure company intranet with file sharing, AI chatbot assistance, and Active Directory authentication. [(See professional)](./professional)
 
-- **[Intelligent Intent Recognition Research](./research)**  
+- **Intelligent Intent Recognition Research**  
   Training a machine learning model using kinematic data to classify biomechanical behaviors. Built with TensorFlow and pandas. [(See research)](./research)
 
 ---
