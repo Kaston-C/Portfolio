@@ -8,14 +8,17 @@ I'm a CS student at Georgia Tech with a focus on systems, architecture, and theo
 
 > *Projects with linked titles are standalone repositories; others link to relevant folders.*
 
+- **[Mini-Cloud](https://github.com/Kaston-C/mini-cloud)**
+  Developed a lightweight cloud infrastructure in Go that provisions Docker containers as VMs across a multi-node cluster with resource-aware scheduling and a REST API for container lifecycle management.
+
 - **[Distributed Rate Limiter](https://github.com/Kaston-C/distributed-rate-limiter)**  
   Built a scalable rate limiter in Go using Redis, Docker, Kubernetes, and Prometheus for monitoring.
 
-- **Multipart OS Simulator**  
-  Developed a C-based operating system simulator that emulates multicore CPU behavior and implements various scheduling and page replacement strategies. [(See CS 2200 under Spring 2025)](./coursework)
-
 - **[Custom Unix Shell](https://github.com/Kaston-C/shell)**  
   Built a lightweight Unix-like command-line shell in C featuring built-in commands, input parsing, piping, file redirection, history, and autocompletion as part of the CodeCrafters challenge.
+
+- **Multipart OS Simulator**  
+  Developed a C-based operating system simulator that emulates multicore CPU behavior and implements various scheduling and page replacement strategies. [(See CS 2200 under Spring 2025)](./coursework)
 
 - **OneDecostar Intranet System**  
   Developed backend features including access control and database schema for a secure company intranet with file sharing, AI chatbot assistance, and Active Directory authentication. [(See professional)](./professional)
