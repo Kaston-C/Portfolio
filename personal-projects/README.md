@@ -19,11 +19,10 @@ Welcome to my collection of personal projects! Below are some of the larger and 
 * **Description**: A lightweight Unix-like command-line shell built in C, created as part of the [CodeCrafters](https://www.codecrafters.io/) Unix Shell challenge.
 * **Technologies**: C, Unix system calls, Shell scripting
 
-### ☁️ Cloud Infrastructure with Docker *(Planned)*
+### ☁️ [Cloud Infrastructure with Docker](https://github.com/Kaston-C/mini-cloud)
 
 * **Description**: Simulates cloud infrastructure by using Docker containers as virtual machines to run scalable apps.
 * **Technologies**: Go, Docker, Cloud Computing, Virtualization
-* **Link**: Coming soon
 
 ---
 
